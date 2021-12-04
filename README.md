@@ -1,2 +1,2 @@
-# Algoritmo
-aprendi que es el algoritmo 
+# p5.play-boilerplate
+Boiler plate for p5.play
